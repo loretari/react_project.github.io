@@ -1,6 +1,6 @@
 import React from 'react'
-import Expenses from './components/Expenses'
-import './components/ExpenseItem'
+import Expenses from './components/Expenses/Expenses'
+
 
 
 function App() {
